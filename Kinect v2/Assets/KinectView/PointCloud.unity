@@ -197,7 +197,7 @@ GameObject:
   - component: {fileID: 473242350}
   - component: {fileID: 473242349}
   m_Layer: 0
-  m_Name: EventSystem
+  m_Name: Event System
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -264,7 +264,7 @@ GameObject:
   - component: {fileID: 560424541}
   - component: {fileID: 560424540}
   m_Layer: 5
-  m_Name: ColorViewCanvas
+  m_Name: Color View Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -502,7 +502,7 @@ GameObject:
   - component: {fileID: 1022827881}
   - component: {fileID: 1022827880}
   m_Layer: 0
-  m_Name: DepthManager
+  m_Name: Depth Manager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -555,7 +555,7 @@ GameObject:
   - component: {fileID: 1478682687}
   - component: {fileID: 1478682686}
   m_Layer: 5
-  m_Name: RegisteredColorViewCanvas
+  m_Name: Registered Color View Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -824,7 +824,7 @@ GameObject:
   - component: {fileID: 1844837802}
   - component: {fileID: 1844837801}
   m_Layer: 0
-  m_Name: ColorManager
+  m_Name: Color Manager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -870,7 +870,7 @@ GameObject:
   - component: {fileID: 1862949758}
   - component: {fileID: 1862949757}
   m_Layer: 8
-  m_Name: PointCloud
+  m_Name: Point Cloud
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
