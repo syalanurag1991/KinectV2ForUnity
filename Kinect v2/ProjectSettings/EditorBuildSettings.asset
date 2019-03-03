@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/KinectView/PointCloud.unity
+    guid: b2b2bc79fb77fb446ab957a3ea75c1c8
   m_configObjects: {}
